@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 The ✨ pointfree interpreter ✨ is intended to provide an opportunity for experimentation 🌱 
 for people who are \
 interested in the ideas of John Backus and his FP 💞️ language
-suggested in the [Turing Award Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579) and some more features
+suggested in the [Turing Award Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579) and \
+some more features
