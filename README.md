@@ -13,4 +13,4 @@ The ✨ pointfree interpreter ✨ is intended to provide an opportunity for expe
 for people who \
 are interested in the ideas of John Backus and his FP 💞️ language
 suggested in the [Turing Award Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579) \
-and some more [features](https://pf-system.github.io/)
+and some more [features](https://pointfree-interpreter.github.io/)
